@@ -6,33 +6,36 @@
 
 ### Présentation de l'équipe et rôles respectifs
 
-| Nom Prénom                | Pseudonyme Github         | Rôle dans le Projet           |
-| :--- | :--- | :--- |
-| DEGRUGILLIER ELISE Uriel  | urieldegrugillier-sketch  | Scrum Master  & Développeur   |
-| MLANAO Zainal-Malan       | mlanaomalan00-cloud       | Developpeur                   |       
-| MENEZ Ewen                | ChickenInKFCGit           | Product Owner & Développeur   |    
-| AYME Sacha                | sachaayme31               | Développeur                   | 
+| Nom Prénom                | Pseudonyme Github         | Rôles Sprint 0|Rôles Sprint 1|Rôles Sprint 2|Rôles Sprint 3| 
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| DEGRUGILLIER ELISE Uriel  | urieldegrugillier-sketch  | Scrum Master  & Développeur   | | | |
+| MLANAO Zainal-Malan       | mlanaomalan00-cloud       | Developpeur                   | | | |       
+| MENEZ Ewen                | ChickenInKFCGit           | Product Owner & Développeur   | | | |    
+| AYME Sacha                | sachaayme31               | Développeur                   | | | | 
 
 ### Travail personnel
+
+Remarque : la mention [TT : XX/YY] en début de paragraphe signifie que le travail a été réalisé le XX/YY en télétravail.
 
 | Date | DEGRUGILLIER ELISE Uriel | MLANAO Zainal-Malan | MENEZ Ewen | AYME Sacha|
 | :--- | :--- | :--- | :--- | :--- |
 |   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
 
 ## Chiffrage Projet
+à remplir 
+## G1A1 -- Evaluation des sprints SAE - cf. EP
 
-## Planning Télétravail
-
-## G1A1 -- Evaluation hebdomadaire SAE - cf. EP
-
-(ici il y aura le spider-web graph des évaluations des sprints)
+(figurera ici le web chart des diffférnts sprints)
 
 
 ## Le déroulement du projet
-
 ### Répartition des tâches et état d'avancement
 
-| version      | rôle utilisateur | use case                 | fonctionnalité           | DEGRUGILLIER ELISE Uriel | MLANAO Zainal-Malan | MENEZ Ewen | AYME Sacha|
+| sprint      | ?? | use case                 | tâche           | DEGRUGILLIER ELISE Uriel | MLANAO Zainal-Malan | MENEZ Ewen | AYME Sacha|
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |1    |ADMIN            |Gestion des joueurs       |Créer un joueur                     |            |              |     F      ||
 |1    |ADMIN            |Gestion des joueurs       |Modifier un joueur                  |            |              |            |       F|
@@ -57,8 +60,7 @@
 
 
 
-Chaque étudiant doit mettre son nom sur une des colonnes étudiant.
-Dans sa colonne il doit remplir la ligne correspondant à chaque partie qu'il a développé en indiquant
+Chaque membre du groupe remplit la ligne correspondante à chaque partie qu'il a développé en indiquant
 
 *	*F* pour fonctionnel
 *	*D* pour encore en Développement
@@ -68,7 +70,7 @@ Dans sa colonne il doit remplir la ligne correspondant à chaque partie qu'il a 
 A MODIFIER
 
 | Date       | Nom                                       | Lien |
- :--- | :--- | :--- |
+| :--- | :--- | :--- |
 
 | 10/05      | CDC V1                                    | link:Rendus/CahierdesCharges/CahierDesChargesV1.adoc[CDC V1]   |   Il manque la répartition des fonctionnalités dans le 2ieme tableau du readme.        
 |            | Gantt V1 Prévu                            | link:Rendus/Gantt/Gantt_V1.pdf[Gantt V1]   |   Gantt sur 2 pages ce n'est pas très lisible ! Des tâches comme "lecture du sujet" ou "analyse des besoins" sont déjà faites dans l'analyse préalable et ne sont pas en V1. Les tâches ne sont pas affectées ! Qui fait quoi ? c'est pourtant l'intérêt du GANTT.        J'ai une tâche CRUD ? Crud de quoi ? manifestement vous n'avez pas compris le sujet. Il manque le jalon de livraison. note 2/4
