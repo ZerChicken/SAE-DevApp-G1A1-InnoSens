@@ -7,6 +7,7 @@
 ### Présentation de l'équipe et rôles respectifs
 
 | Nom Prénom                | Pseudonyme Github         | Rôle dans le Projet           |
+| :--- | :--- | :--- |
 | DEGRUGILLIER ELISE Uriel  | urieldegrugillier-sketch  | Scrum Master  & Développeur   |
 | MLANAO Zainal-Malan       | mlanaomalan00-cloud       | Developpeur                   |       
 | MENEZ Ewen                | ChickenInKFCGit           | Product Owner & Développeur   |    
@@ -15,6 +16,7 @@
 ### Travail personnel
 
 | Date | DEGRUGILLIER ELISE Uriel | MLANAO Zainal-Malan | MENEZ Ewen | AYME Sacha|
+| :--- | :--- | :--- | :--- | :--- |
 |   |   |   |   |
 
 ## Chiffrage Projet
@@ -30,7 +32,7 @@
 ==== Répartition des tâches et état d'avancement
 
 | version      | rôle utilisateur | use case                 | fonctionnalité           | DEGRUGILLIER ELISE Uriel | MLANAO Zainal-Malan | MENEZ Ewen | AYME Sacha|
-// Version 1 - Gestion des Équipes et Jeux
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |1    |ADMIN            |Gestion des joueurs       |Créer un joueur                     |            |              |     F      ||
 |1    |ADMIN            |Gestion des joueurs       |Modifier un joueur                  |            |              |            |       F|
 |1    |ADMIN            |Gestion des joueurs       |Supprimer un joueur                 |            |       F      |            ||
@@ -63,9 +65,10 @@ Dans sa colonne il doit remplir la ligne correspondant à chaque partie qu'il a 
 
 ## Livrables
 A MODIFIER
-[cols="4*", options="header"]
-|============================================================================
-| Date       | Nom                                       | Lien | Retour Prof
+
+| Date       | Nom                                       | Lien |
+ :--- | :--- | :--- |
+
 | 10/05      | CDC V1                                    | link:Rendus/CahierdesCharges/CahierDesChargesV1.adoc[CDC V1]   |   Il manque la répartition des fonctionnalités dans le 2ieme tableau du readme.        
 |            | Gantt V1 Prévu                            | link:Rendus/Gantt/Gantt_V1.pdf[Gantt V1]   |   Gantt sur 2 pages ce n'est pas très lisible ! Des tâches comme "lecture du sujet" ou "analyse des besoins" sont déjà faites dans l'analyse préalable et ne sont pas en V1. Les tâches ne sont pas affectées ! Qui fait quoi ? c'est pourtant l'intérêt du GANTT.        J'ai une tâche CRUD ? Crud de quoi ? manifestement vous n'avez pas compris le sujet. Il manque le jalon de livraison. note 2/4
 | 17/05 noté | CdC final avec V2 et V3                   | link:Rendus/CahierdesCharges/CahierDesChargesFinal.adoc[CDC Final]   |  il manque de nombreuses infos dans l'entete du CDCU (cf. grille eval). Les paragraphes ne sont pas numérotés, je ne sais pas qui a écrit quoi ? Manque des élements contextuels sur le esport, si une personne ne connait pas le esport, elle ne comprend pas le besoin avec votre introduction. Je ne comprend pas la cible, quel rôle joue votre entreprise dans le Esport : fournir une appli ? Organiser les tournois ? diffuser les évenements ? Il manque des signes de ponctuation, des erreurs de syntaxe dans les UC.  Des soucis de cohérence dans les UC une fois j'ai utilisateur, une fois j'ai staff ?    Il manque la fonction afficher/consulter dans vos UC.  Vous ne présentez pas les utilisateurs (rôle admin et organisateur). Vous ne précisez pas que vous partez d'un existant ... vous parlez juste de V0. C'est assez confus avec les copies ecran de V1 et V2 sans sous-paragraphes.   Dans contrainte j'ai maintenance : mise à jour ? ça veut dire quoi ? Il manque les règles de gestion à respecter. Chiffrage : modalités de calcul (tarif des journées par ex) non expliqué et n'est pas sous la forme d'un devis. note 10,5/20  
