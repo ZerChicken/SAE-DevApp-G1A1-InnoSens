@@ -28,8 +28,9 @@
 (ici il y aura le spider-web graph des évaluations des sprints)
 
 
+## Le déroulement du projet
 
-==== Répartition des tâches et état d'avancement
+### Répartition des tâches et état d'avancement
 
 | version      | rôle utilisateur | use case                 | fonctionnalité           | DEGRUGILLIER ELISE Uriel | MLANAO Zainal-Malan | MENEZ Ewen | AYME Sacha|
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -63,7 +64,7 @@ Dans sa colonne il doit remplir la ligne correspondant à chaque partie qu'il a 
 *	*D* pour encore en Développement
 * *A* pour affecté mais pas encore développé
 
-## Livrables
+### Livrables
 A MODIFIER
 
 | Date       | Nom                                       | Lien |
