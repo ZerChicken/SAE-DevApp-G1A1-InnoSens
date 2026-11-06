@@ -10,12 +10,12 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | DEGRUGILLIER ELISE Uriel  | urieldegrugillier-sketch  | Scrum Master  & Développeur   | | | |
 | MLANAO Zainal-Malan       | mlanaomalan00-cloud       | Developpeur                   | | | |       
-| MENEZ Ewen                | ChickenInKFCGit           | Product Owner & Développeur   | | | |    
+| MENEZ Ewen                | ZerChicken                | Product Owner & Développeur   | | | |    
 | AYME Sacha                | sachaayme31               | Développeur                   | | | | 
 
 ### Travail personnel
 
-Remarque : la mention [TT : XX/YY] en début de paragraphe signifie que le travail a été réalisé le XX/YY en télétravail.
+Remarque : la mention [TT : JJ/MM] en début de paragraphe signifie que le travail a été réalisé le JJ/MM en télétravail.
 
 | Date | DEGRUGILLIER ELISE Uriel | MLANAO Zainal-Malan | MENEZ Ewen | AYME Sacha|
 | :--- | :--- | :--- | :--- | :--- |
@@ -35,11 +35,19 @@ Remarque : la mention [TT : XX/YY] en début de paragraphe signifie que le trava
 
 ## Le déroulement du projet
 ### Les sprints
-Ici faire un tableau qui donne les dates de début et de fin (les dates, pas les semaines)et dire en dessous que presque chaque sprint dure deux semaines dans une jolie phrase(faut récupérer les dates de sprints du backlog produit) 
+
+| Sprint | Date | Contenu principal |
+| :--- | :--- | :--- |
+| Sprint 0 | 09/11 à 13/11 | Mise en place du projet sur GitHub |
+| Sprint 1 | 16/11 à 27/11 | Conception et création de la base, jeu de données, procédures stockées et triggers, socle PHP sécurisé, charte graphique, comptes, navigation, fiche produit, connexion à la console d'administration |
+| Sprint 2 | 30/11 à 11/12 | Recherche, filtres, variantes, lots, panier, commande, paiement, avis, gestion des stocks |
+| Sprint 3 | 14/12 à 18/12 et 04/01 à 08/01 | Console d'administration (catalogue, catégories, lots, clients, avis, commandes), parfum personnalisé, fidélité, dernières consultations, recommandations |
+
+Chacun des Sprints, excepté le Sprint 0, dureront environ deux semaines.
 
 ### Répartition des tâches et état d'avancement
 Une fois notre backlog corrigé, il faudra mettre ici les tâches et assigner celles du sprint 0
-| sprint      | ?? | use case                 | tâche           | DEGRUGILLIER ELISE Uriel | MLANAO Zainal-Malan | MENEZ Ewen | AYME Sacha|
+| Sprint      | ?? | Use Case                 | Tâche           | DEGRUGILLIER ELISE Uriel | MLANAO Zainal-Malan | MENEZ Ewen | AYME Sacha|
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 |1    |ADMIN            |Gestion des joueurs       |Créer un joueur                     | | |  | |
 |1    |ADMIN            |Gestion des joueurs       |Modifier un joueur                  | | |  | |
@@ -73,8 +81,8 @@ Chaque membre du groupe remplit la ligne correspondante à chaque partie qu'il a
 ### Livrables
 A MODIFIER
 
-| Date       | Nom                                       | Lien |
-| :--- | :--- | :--- |
+| Date       | Nom du rendu    | Lien |
+| :---       | :---            | :--- |
 | | | |
 | | | |
 | | | |
