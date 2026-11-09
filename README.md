@@ -28,7 +28,39 @@ Remarque : la mention [TT : JJ/MM] en début de paragraphe signifie que le trava
 |   |   |   |   |
 
 ## Chiffrage Projet
-à remplir de ce qu'on avait fait sur le google docs, faudrait le raccourcir et le rendre plus concis pour qu'il rentre ici
+
+Le chiffrage est calculé à partir du coût employeur de chaque membre de l’équipe, c’est-à-dire son salaire brut annuel augmenté des charges patronales (environ 45 % du brut), ramené à un taux horaire sur la base de 1 607 heures travaillées par an.
+
+
+**Taux horaires retenus**
+
+| Rôle | Salaire brut annuel | Coût employeur annuel (brut + 45%) | Taux horaire (+1 607 h)|
+| :--- | :--- | :--- | :--- |
+| Product Owner | 52 000 € | 75 400 € | 46,92 € |
+| Scrum Master | 50 000 € | 72 500 € | 45,12 € |
+| Développeur web | 38 000 € | 55 100 € | 34,29 € |
+
+**Détail du chiffrage**
+
+| Membre | Activité | Heures | Taux horaire | Coût|
+| :--- | :--- | :--- | :--- | :--- |
+| Uriel | Scrum Master | 15 h | 45,12 € | 676,73 € |
+| Uriel | Développement | 60 h | 34,29 € | 2 057,25 € |
+| Ewen | Product Owner | 15 h | 2 | 703,80 € |
+| Ewen | Développement | 60 h | 34,29 € | 2 057,25 € |
+| Malan | Développement | 75 h | 34,29 €| 2 571,56 € |
+| Sacha | Développement | 75 h | 34,29 € | 2 571,56 € |
+| Coût de revient total |  | 300 h |  | 10 638,15 € |
+
+**Prix de la proposition**
+
+| Poste | Montant |
+| :--- | :--- |
+| Coût de revient | 10 638,15 € |
+| Marge (15%) | 1 595,72 € |
+| **Prix de vente HT** | **12 233,87 €** |
+| TVA (20%) | 2 446,77 € |
+| **Prix de vente TTC** | **14 680,64 €** |
 
 ## G1A1 -- Evaluation des sprints SAE - cf. EP
 
