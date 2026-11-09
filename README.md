@@ -78,12 +78,11 @@ Chaque membre du groupe remplit la ligne correspondante à chaque partie qu'il a
 *	*D* pour encore en Développement
 *   *A* pour affecté mais pas encore développé
 
-### Livrables
-A MODIFIER
+### Livrables 
 
 | Date       | Nom du rendu    | Lien |
 | :---       | :---            | :--- |
-| 29/11/2026 23h | PHP : SEP, charte graphique | |
+| 29/11/2026 23h | PHP : SEP, charte graphique |[lien](documents/rendus/xxx.yyy) |
 | 6/12/26 23h | PHP : code et trace d'exécution pour authentification, session/cookie, stockage crypté mot de passe en BD, plusieurs utilisateurs du site | |
 | 13/12/26 23h | PHP : code et trace d'exécution pour pages des US prioritaires (avec requêtes préparées) | |
 | 20/12/26 23h | PHP : cahier recette + code et trace exécution pour appel Proc. Stock BD depuis PHP, gestion en PHP des exceptions SQL, code PHP restant | |
