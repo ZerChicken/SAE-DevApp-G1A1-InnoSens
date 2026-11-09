@@ -10,7 +10,7 @@ Ce projet a pour but de développer une application web pour l'entreprise InnoSe
 
 | Nom Prénom                | Pseudonyme Github         | Rôles Sprint 0|Rôles Sprint 1|Rôles Sprint 2|Rôles Sprint 3| 
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| DEGRUGILLIER ELISE Uriel  | urieldegrugillier-sketch  | Scrum Master  & Développeur   | | | |
+| DEGRUGILLIER ELISE Uriel  | urieldegrugillier-sketch  | Scrum Master & Développeur    | Product Owner & Développeur | | |
 | MLANAO Zainal-Malan       | mlanaomalan00-cloud       | Developpeur                   | | | |       
 | MENEZ Ewen                | ZerChicken                | Product Owner & Développeur   | | | |    
 | AYME Sacha                | sachaayme31               | Développeur                   | | | | 
@@ -21,7 +21,7 @@ Remarque : la mention [TT : JJ/MM] en début de paragraphe signifie que le trava
 
 | Date | DEGRUGILLIER ELISE Uriel | MLANAO Zainal-Malan | MENEZ Ewen | AYME Sacha|
 | :--- | :--- | :--- | :--- | :--- |
-|   |   |   |   |
+| 13/11 | ABS |   |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
