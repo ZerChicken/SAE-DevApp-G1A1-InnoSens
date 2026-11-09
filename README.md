@@ -47,28 +47,9 @@ Chacun des Sprints, excepté le Sprint 0, dureront environ deux semaines.
 
 ### Répartition des tâches et état d'avancement
 Une fois notre backlog corrigé, il faudra mettre ici les tâches et assigner celles du sprint 0
-| Sprint      | ?? | Use Case                 | Tâche           | DEGRUGILLIER ELISE Uriel | MLANAO Zainal-Malan | MENEZ Ewen | AYME Sacha|
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|1    |ADMIN            |Gestion des joueurs       |Créer un joueur                     | | |  | |
-|1    |ADMIN            |Gestion des joueurs       |Modifier un joueur                  | | |  | |
-|1    |ADMIN            |Gestion des joueurs       |Supprimer un joueur                 | | |  | |
-|1    |ADMIN            |Gestion des joueurs       |Consulter les joueurs               | | |  | |
-|1    |ORGANISATEUR     |Gestion des équipes       |Créer une équipe                    | | |  | |
-|1    |ORGANISATEUR     |Gestion des équipes       |Modifier une équipe                 | | |  | |
-|1    |ORGANISATEUR     |Gestion des équipes       |Supprimer une équipe                | | |  | |
-|1    |ORGANISATEUR     |Gestion des équipes       |Consulter les équipes               | | |  | |
-|1    |ORGANISATEUR     |Gestion des jeux          |Créer un jeu                        | | |  | |
-|1    |ORGANISATEUR     |Gestion des jeux          |Modifier un jeu                     | | |  | |
-|1    |ORGANISATEUR     |Gestion des jeux          |Supprimer un jeu                    | | |  | |
-|1    |ORGANISATEUR     |Gestion des jeux          |Consulter les jeux                  | | |  | |
-|1    |ORGANISATEUR     |Affectation               |Affecter joueur à équipe            | | |  | |
-|2    |ORGANISATEUR     |Gestion des inscriptions  |Inscrire une équipe                 | | |  | |
-|2    |ORGANISATEUR     |Gestion des inscriptions  |Modifier une inscription            | | |  | |
-|2    |ORGANISATEUR     |Gestion des inscriptions  |Supprimer une inscription           | | |  | |
-|2    |ORGANISATEUR     |Gestion des inscriptions  |Consulter les inscriptions          | | |  | |
-|2    |ORGANISATEUR     |Documents                 |Générer PDF tournoi                 | | |  | |
-|2    |ADMIN            |Documents                 |Générer PDF joueur                  | | |  | |
-|2    |ADMIN            |Documents                 |Générer PDF liste joueurs           | | |  | |
+| Sprint      | Priorité | Complexité | Use Case                 | Tâche           | DEGRUGILLIER ELISE Uriel | MLANAO Zainal-Malan | MENEZ Ewen | AYME Sacha|
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | 
+| 0    | Must | 2    | US01 | Exemple     | | | | |
 
 
 
