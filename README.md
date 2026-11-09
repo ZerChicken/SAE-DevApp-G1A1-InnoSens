@@ -21,7 +21,7 @@ Remarque : la mention [TT : JJ/MM] en début de paragraphe signifie que le trava
 
 | Date | DEGRUGILLIER ELISE Uriel | MLANAO Zainal-Malan | MENEZ Ewen | AYME Sacha|
 | :--- | :--- | :--- | :--- | :--- |
-| 13/11 | ABS |   |   |
+| 13/11 | TT |   |   |
 |   |   |   |   |
 |   |   |   |   |
 |   |   |   |   |
