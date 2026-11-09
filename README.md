@@ -17,15 +17,12 @@ Ce projet a pour but de développer une application web pour l'entreprise InnoSe
 
 ### Travail personnel
 
-Remarque : la mention [TT : JJ/MM] en début de paragraphe signifie que le travail a été réalisé le JJ/MM en télétravail.
+Remarque : la mention "TT" en début de paragraphe signifie que le travail a été réalisé ce jour en télétravail.
 
-| Date | DEGRUGILLIER ELISE Uriel | MLANAO Zainal-Malan | MENEZ Ewen | AYME Sacha|
-| :--- | :--- | :--- | :--- | :--- |
-| 13/11 | TT |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+| Date | Uriel | Malan | Ewen | Sacha|
+| :--- | :---  | :---  | :--- | :--- |
+| 13/11|  TT   |       |  TT  |      |
+|      |       |       |      |      |
 
 ## Chiffrage Projet
 
