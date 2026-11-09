@@ -46,7 +46,7 @@ Le chiffrage est calculé à partir du coût employeur de chaque membre de l’�
 | :--- | :--- | :--- | :--- | :--- |
 | Uriel | Scrum Master | 15 h | 45,12 € | 676,73 € |
 | Uriel | Développement | 60 h | 34,29 € | 2 057,25 € |
-| Ewen | Product Owner | 15 h | 2 | 703,80 € |
+| Ewen | Product Owner | 15 h |  46,92 € | 703,80 € |
 | Ewen | Développement | 60 h | 34,29 € | 2 057,25 € |
 | Malan | Développement | 75 h | 34,29 €| 2 571,56 € |
 | Sacha | Développement | 75 h | 34,29 € | 2 571,56 € |
