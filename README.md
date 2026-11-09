@@ -94,27 +94,32 @@ Chaque membre du groupe remplit la ligne correspondante à chaque partie qu'il a
 
 | Date                 | Nom du rendu    | Lien |
 | :---                 | :---            | :--- |
+| 06/11/2026           | Gestion de projet : Appel d'offre | |
+| 13/11/2026           | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 | |
+| 27/11/2026           | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 | |
+| 27/11/2026           | Gestion de projet : Suivi de projet, évaluation des dépôts Github/backlog/documentation/tests/release | |
 | 29/11/2026 23h       | PHP : SEP, charte graphique |[lien](documents/rendus/xxx.yyy) |
-| 6/12/26 23h          | PHP : code et trace d'exécution pour authentification, session/cookie, stockage crypté mot de passe en BD, plusieurs utilisateurs du site | |
-| 13/12/26 23h         | PHP : code et trace d'exécution pour pages des US prioritaires (avec requêtes préparées) | |
-| 20/12/26 23h         | PHP : cahier recette + code et trace exécution pour appel Proc. Stock BD depuis PHP, gestion en PHP des exceptions SQL, code PHP restant | |
-| sem 51               | PHP : ORAL individuel et groupe sur code PHP déjà fourni | |
-| sem 1 : créneau EdT  | PHP : évaluation du site web | |
-| sem 2 : créneau EdT  | PHP : QCM commun | |
-| sem 49 - 07/12/2025  | Java : structuration code/doc. technique ET javadoc | |
-| sem 50               | Java : Oral (une note /20, prise en compte de la taille effective du groupe) | |
-| sem 51               | Java : QCM commun | |
 | 29/11/2026 23h       | BD : Conception de la BD (DC et SR) | |
-| 6/12/26 23h          | BD : Script et trace exécution création BD avec contraintes et insertions demandées (insert et select) | |
+| 06/12/2026           | Python : code respectant la structure imposée + fichiers de tests + fichiers des tests réalisés + readme (une note /20 commune) | |
+| 06/12/26 23h         | PHP : code et trace d'exécution pour authentification, session/cookie, stockage crypté mot de passe en BD, plusieurs utilisateurs du site | |
+| 06/12/26 23h         | BD : Script et trace exécution création BD avec contraintes et insertions demandées (insert et select) | |
+| 04/12/2026           | Java : structuration code/doc. technique ET javadoc | |
+| 08-09/12/2026        | Java : Oral (une note /20, prise en compte de la taille effective du groupe) | |
+| 08-09/12/2026        | BD : ORAL individuel et groupe sur code SQL déjà fourni | |
+| 08-09/12/2026        | Python : Oral (une note /20, prise en compte du travail individuel et des réponses individuelles) | |
+| 11/12/2026           | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 | |
+| 11/12/2026           | Gestion de projet : Suivi de projet, évaluation des dépôts Github/backlog/documentation/tests/release | |
+| 13/12/26 23h         | PHP : code et trace d'exécution pour pages des US prioritaires (avec requêtes préparées) | |
 | 13/12/26 23h         | BD : Code et trace exécution des Procédures stockées en BD (au moins deux) et des Triggers (au moins 1 trigger de maj et 1 trigger de contrainte) | |
-| sem 50               | BD : ORAL individuel et groupe sur code SQL déjà fourni | |
-| sem 2 : créneau EdT  | BD : QCM commun | |
-| sem 49 - 06/12/2026  | Python : code respectant la structure imposée + fichiers de tests + fichiers des tests réalisés + readme (une note /20 commune) | |
-| sem 50               | Python : Oral (une note /20, prise en compte du travail individuel et des réponses individuelles) | |
-| sem 51               | Python : Contrôle sur table (QCM et questions ouvertes) | |
-| semaine 45           | Gestion de projet : Appel d'offre | |
-| Fin Sprint 1, 2 et 3 | Gestion de projet : Suivi de projet, évaluation des dépôts Github/backlog/documentation/tests/release | |
-| semaine 2            | Gestion de projet : AUDIT | |
-| semaine 2 : créneau EDT | Gestion de projet : QCM commun | |
-| sem 46, sem 48, sem 50, sem 2 | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 | |
+| 14-18/12/2026        | PHP : ORAL individuel et groupe sur code PHP déjà fourni | |
+| 14-18/12/2026        | Java : QCM commun | |
+| 16/12/2026 9h30      | Python : Contrôle sur table (QCM et questions ouvertes) | |
+| 20/12/26 23h         | PHP : cahier recette + code et trace exécution pour appel Proc. Stock BD depuis PHP, gestion en PHP des exceptions SQL, code PHP restant | |
+| 04-08/01/2027 : créneau EdT | PHP : évaluation du site web | |
+| 08/01/2027           | Gestion de projet : Suivi de projet, évaluation des dépôts Github/backlog/documentation/tests/release | |
+| 08/01/2027           | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 | |
+| 11-15/01/2027 : créneau EdT | PHP : QCM commun | |
+| 11-15/01/2027 : créneau EdT | BD : QCM commun | |
+| 11-15/01/2027        | Gestion de projet : AUDIT | |
+| 11-15/01/2027 : créneau EDT | Gestion de projet : QCM commun | |
 |                      | Soutenances de projet : une note commune /20 | |
