@@ -77,7 +77,7 @@ Le chiffrage est calculé à partir du coût employeur de chaque membre de l’�
 Chacun des Sprints, excepté le Sprint 0, dureront environ deux semaines.
 
 ### Répartition des tâches et état d'avancement
-Une fois notre backlog corrigé, il faudra mettre ici les tâches et assigner celles du sprint 0
+
 | Sprint | Priorité | Complexité | Use Case | Tâche                       | Uriel | Malan | Ewen | Sacha |
 | :---   | :---     | :---       | :---     | :---                        | :---  | :---  | :--- | :---  | 
 |   0    | Must     | 2          | US01     | Exemple                     |       |       |      |       |
@@ -94,7 +94,7 @@ Chaque membre du groupe remplit la ligne correspondante à chaque partie qu'il a
 
 | Date                 | Nom du rendu    | Lien |
 | :---                 | :---            | :--- |
-| 06/11/2026           | Gestion de projet : Appel d'offre | |
+| 06/11/2026           | Gestion de projet : Appel d'offre |[lien](documents/rendus/xxx.yyy) |
 | 13/11/2026           | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 | |
 | 27/11/2026           | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 | |
 | 27/11/2026           | Gestion de projet : Suivi de projet, évaluation des dépôts Github/backlog/documentation/tests/release | |
