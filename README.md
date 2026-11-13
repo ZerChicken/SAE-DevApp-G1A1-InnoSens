@@ -24,7 +24,7 @@ Remarque : la mention "TT" en début de paragraphe signifie que le travail a ét
 | 13/11|  TT   |       |  TT  |      |
 |      |       |       |      |      |
 
-## Chiffrage Projet
+## Chiffrage Prévisionnel Projet
 
 Le chiffrage est calculé à partir du coût employeur de chaque membre de l’équipe, c’est-à-dire son salaire brut annuel augmenté des charges patronales (environ 45 % du brut), ramené à un taux horaire sur la base de 1 607 heures travaillées par an.
 
@@ -101,11 +101,11 @@ Chaque membre du groupe remplit la ligne correspondante à chaque partie qu'il a
 
 | Date                 | Nom du rendu    | Lien |
 | :---                 | :---            | :--- |
-| 06/11/2026           | Gestion de projet : Appel d'offre |[lien](documents/rendus/xxx.yyy) |
-| 13/11/2026           | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 | |
+| 06/11/2026           | Gestion de projet : Appel d'offre |[CDCFT](documents/Appel_d'Offre/G1A1_Oli-Vendeur_Cahier_Des_Charges_Fonctionnel_et_Technique.pdf) [DCE](documents/Appel_d'Offre/G1A1_Oli-Vendeur_Dossier_de_Consultation_des_Entreprises.pdf) |
+| 13/11/2026           | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 |[CR Sprint Review (client)](documents/CR_Réunion/S3G1A1_CR_Sprint0_Review_2026-11-10.pdf) [CR Sprint Rétrospective (équipe)](documents/CR_Réunion/S3G1A1_CR_Sprint0_Retro_2026-11-13.pdf) |
 | 27/11/2026           | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 | |
 | 27/11/2026           | Gestion de projet : Suivi de projet, évaluation des dépôts Github/backlog/documentation/tests/release | |
-| 29/11/2026 23h       | PHP : SEP, charte graphique |[lien](documents/rendus/xxx.yyy) |
+| 29/11/2026 23h       | PHP : SEP, charte graphique | |
 | 29/11/2026 23h       | BD : Conception de la BD (DC et SR) | |
 | 06/12/2026           | Python : code respectant la structure imposée + fichiers de tests + fichiers des tests réalisés + readme (une note /20 commune) | |
 | 06/12/26 23h         | PHP : code et trace d'exécution pour authentification, session/cookie, stockage crypté mot de passe en BD, plusieurs utilisateurs du site | |
