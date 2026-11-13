@@ -80,7 +80,11 @@ Chacun des Sprints, excepté le Sprint 0, dureront environ deux semaines.
 
 | Sprint | Priorité | Complexité | Use Case | Tâche                       | Uriel | Malan | Ewen | Sacha |
 | :---   | :---     | :---       | :---     | :---                        | :---  | :---  | :--- | :---  | 
-|   0    | Must     | 2          | US01     | Exemple                     |       |       |      |       |
+|   0    | Must     | 1          | TS07     | TS07.1 - Créer le dépôt, le board et les milestones |       |       | F    |       |
+|   0    | Must     | 1          | TS07     | TS07.2 - Relier les issues aux US et préparer les modèles ODJ/CR | F     |       | F    |       |
+|   0    | Must     | 1          | TS07     | TS07.3 - Déposer l'ODJ et le CR du sprint 0 | F     |       |      |       |
+|   0    | Must     | 1          | TS07     | TS07.4 - Créer le burndown |       | F     |      |       |
+|   0    | Must     | 1          | TS07     | TS07.5 - Protéger la branche main et configurer les pull requests |       |       | F    |       |
 
 
 
