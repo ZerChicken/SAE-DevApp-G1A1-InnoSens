@@ -77,10 +77,7 @@ Le chiffrage est calculé à partir du coût employeur de chaque membre de l’�
 Chacun des Sprints, excepté le Sprint 0, dureront environ deux semaines.
 
 ### Répartition des tâches et état d'avancement
-<<<<<<< HEAD
-=======
 
->>>>>>> 6650f03 (small modif readme)
 | Sprint | Priorité | Complexité | Use Case | Tâche                       | Uriel | Malan | Ewen | Sacha |
 | :---   | :---     | :---       | :---     | :---                        | :---  | :---  | :--- | :---  | 
 |   0    | Must     | 1          | TS07     | TS07.1 - Créer le dépôt, le board et les milestones |       |       | F    |       |
