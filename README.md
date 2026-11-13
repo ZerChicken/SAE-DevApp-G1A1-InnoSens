@@ -21,7 +21,7 @@ Remarque : la mention "TT" en début de paragraphe signifie que le travail a ét
 
 | Date | Uriel | Malan | Ewen | Sacha|
 | :--- | :---  | :---  | :--- | :--- |
-| 13/11|  TT   |       |  TT  |      |
+| 13/11|  TT   |  TT   |  TT  |  TT  |
 |      |       |       |      |      |
 
 ## Chiffrage Prévisionnel Projet
@@ -85,7 +85,7 @@ Chacun des Sprints, excepté le Sprint 0, dureront environ deux semaines.
 | :---   | :---     | :---       | :---     | :---                        | :---  | :---  | :--- | :---  | 
 |   0    | Must     | 1          | TS07     | TS07.1 - Créer le dépôt, le board et les milestones |       |       | F    |       |
 |   0    | Must     | 1          | TS07     | TS07.2 - Relier les issues aux US et préparer les modèles ODJ/CR | F     |       | F    |       |
-|   0    | Must     | 1          | TS07     | TS07.3 - Déposer l'ODJ et le CR du sprint 0 | F     |       |      |       |
+|   0    | Must     | 1          | TS07     | TS07.3 - Déposer l'ODJ et le CR du sprint 0 | F     |       |   F  |       |
 |   0    | Must     | 1          | TS07     | TS07.4 - Créer le burndown |       | F     |      |       |
 |   0    | Must     | 1          | TS07     | TS07.5 - Protéger la branche main et configurer les pull requests |       |       | F    |       |
 
@@ -101,8 +101,8 @@ Chaque membre du groupe remplit la ligne correspondante à chaque partie qu'il a
 
 | Date                 | Nom du rendu    | Lien |
 | :---                 | :---            | :--- |
-| 06/11/2026           | Gestion de projet : Appel d'offre |[CDCFT](documents/Appel_d'Offre/G1A1_Oli-Vendeur_Cahier_Des_Charges_Fonctionnel_et_Technique.pdf) [DCE](documents/Appel_d'Offre/G1A1_Oli-Vendeur_Dossier_de_Consultation_des_Entreprises.pdf) |
-| 13/11/2026           | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 |[CR Sprint Review (client)](documents/CR_Réunion/S3G1A1_CR_Sprint0_Review_2026-11-10.pdf) [CR Sprint Rétrospective (équipe)](documents/CR_Réunion/S3G1A1_CR_Sprint0_Retro_2026-11-13.pdf) |
+| 06/11/2026           | Gestion de projet : Appel d'offre |[CDCFT](documents/Appel_d'Offre/G1A1_Oli-Vendeur_Cahier_Des_Charges_Fonctionnel_et_Technique.pdf), [DCE](documents/Appel_d'Offre/G1A1_Oli-Vendeur_Dossier_de_Consultation_des_Entreprises.pdf) |
+| 13/11/2026           | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 |[CR Sprint Review (client)](documents/CR_Réunion/S3G1A1_CR_Sprint0_Review_2026-11-10.pdf), [CR Sprint Rétrospective (équipe)](documents/CR_Réunion/S3G1A1_CR_Sprint0_Retro_2026-11-13.pdf) |
 | 27/11/2026           | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 | |
 | 27/11/2026           | Gestion de projet : Suivi de projet, évaluation des dépôts Github/backlog/documentation/tests/release | |
 | 29/11/2026 23h       | PHP : SEP, charte graphique | |
