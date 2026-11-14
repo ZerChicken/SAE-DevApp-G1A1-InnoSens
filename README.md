@@ -22,7 +22,7 @@ Remarque : la mention "TT" en début de paragraphe signifie que le travail a ét
 | Date | Uriel | Malan | Ewen | Sacha|
 | :--- | :---  | :---  | :--- | :--- |
 | 13/11|  TT   |  TT   |  TT  |  TT  |
-|      |       |       |      |      |
+| 18/11|  TT   |       |      |      |
 
 ## Chiffrage Prévisionnel Projet
 
