@@ -27,7 +27,7 @@ Remarque : la mention "TT" en début de paragraphe signifie que le travail a ét
 | Date | Uriel | Malan | Ewen | Sacha
 
 | 13/11 | TT | TT | TT | TT
-| 18/11 | TT | | |
+| 18/11 | TT | | TT | TT
 |===
 
 == Chiffrage Prévisionnel Projet
@@ -73,13 +73,13 @@ Le chiffrage est calculé à partir du coût employeur de chaque membre de l’�
 | *Prix de vente TTC* | *14 680,64 €*
 |===
 
-== G1A1 -- Evaluation des sprints SAE - cf. EP
+== G1A1 -- Evaluation des Sprints SAE - cf. EP
 
-(figurera ici le web chart des différents sprints, rempli par E.P.)
+(figurera ici le web chart des différents Sprints, rempli par E.P.)
 
 == Le déroulement du projet
 
-=== Les sprints
+=== Les Sprints
 
 [%header]
 |===
@@ -95,7 +95,7 @@ Chacun des Sprints, excepté le Sprint 0, dureront environ deux semaines.
 
 === Backlog produit
 
-Ce sera soit un tableau ID / histoire / priorité / complexité / sprint, soit un lien vers le PDF du backlog (Demander à EP)
+Ce sera soit un tableau ID / histoire / priorité / complexité / Sprint, soit un lien vers le PDF du backlog à mettre dans livrables (Demander à EP)
 
 === Livrables
 
@@ -104,29 +104,33 @@ Ce sera soit un tableau ID / histoire / priorité / complexité / sprint, soit u
 | Date | Nom du rendu | Lien
 
 | 06/11/2026 | Gestion de projet : Appel d'offre | link:documents/Appel_d'Offre/G1A1_Oli-Vendeur_Cahier_Des_Charges_Fonctionnel_et_Technique.pdf[CDCFT], link:documents/Appel_d'Offre/G1A1_Oli-Vendeur_Dossier_de_Consultation_des_Entreprises.pdf[DCE]
-| 13/11/2026 | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 | link:documents/ODJ_Réunion/S3G1A1_ODJ_Sprint0_Review_2026-11-10.pdf[ODJ Sprint Review (client)], link:documents/ODJ_Réunion/S3G1A1_ODJ_Sprint0_Retro_2026-11-13.pdf[ODJ Sprint Rétrospective (équipe)], link:documents/CR_Réunion/S3G1A1_CR_Sprint0_Review_2026-11-10.pdf[CR Sprint Review (client)], link:documents/CR_Réunion/S3G1A1_CR_Sprint0_Retro_2026-11-13.pdf[CR Sprint Rétrospective (équipe)]
-| 27/11/2026 | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 |
+| 13/11/2026 | CR de réunion avec analyse du Sprint passé chaque Sprint et post-mortem : une note commune /20 | link:documents/ODJ_Réunion/S3G1A1_ODJ_Sprint0_Review_2026-11-10.pdf[ODJ Sprint Review (client)], link:documents/ODJ_Réunion/S3G1A1_ODJ_Sprint0_Retro_2026-11-13.pdf[ODJ Sprint Rétrospective (équipe)], link:documents/CR_Réunion/S3G1A1_CR_Sprint0_Review_2026-11-10.pdf[CR Sprint Review (client)], link:documents/CR_Réunion/S3G1A1_CR_Sprint0_Retro_2026-11-13.pdf[CR Sprint Rétrospective (équipe)]
+| 15/11/2026 | Fin Sprint 0 : Backlog Produit + backlog du Sprint sous GitHub |link:documents/Backlogs/Backlog_Produit_InnoSens.pdf[Backlog Produit]
+| 19/11/2026 | Soutenance de projet partielle n°1 |
+| 27/11/2026 | CR de réunion avec analyse du Sprint passé chaque Sprint et post-mortem : une note commune /20 |
 | 27/11/2026 | Gestion de projet : Suivi de projet, évaluation des dépôts Github/backlog/documentation/tests/release |
 | 29/11/2026 23h | PHP : SEP, charte graphique |
 | 29/11/2026 23h | BD : Conception de la BD (DC et SR) |
+| 30/11/2026 | Soutenance de projet partielle n°2 |
 | 06/12/2026 | Python : code respectant la structure imposée + fichiers de tests + fichiers des tests réalisés + readme (une note /20 commune) |
 | 06/12/26 23h | PHP : code et trace d'exécution pour authentification, session/cookie, stockage crypté mot de passe en BD, plusieurs utilisateurs du site |
 | 06/12/26 23h | BD : Script et trace exécution création BD avec contraintes et insertions demandées (insert et select) |
-| 04/12/2026 | Java : structuration code/doc. technique ET javadoc |
+| 07/12/2026 | Java : structuration code/doc. technique ET javadoc |
 | 08-09/12/2026 | Java : Oral (une note /20, prise en compte de la taille effective du groupe) |
 | 08-09/12/2026 | BD : ORAL individuel et groupe sur code SQL déjà fourni |
 | 08-09/12/2026 | Python : Oral (une note /20, prise en compte du travail individuel et des réponses individuelles) |
-| 11/12/2026 | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 |
+| 11/12/2026 | CR de réunion avec analyse du Sprint passé chaque Sprint et post-mortem : une note commune /20 |
 | 11/12/2026 | Gestion de projet : Suivi de projet, évaluation des dépôts Github/backlog/documentation/tests/release |
 | 13/12/26 23h | PHP : code et trace d'exécution pour pages des US prioritaires (avec requêtes préparées) |
 | 13/12/26 23h | BD : Code et trace exécution des Procédures stockées en BD (au moins deux) et des Triggers (au moins 1 trigger de maj et 1 trigger de contrainte) |
+| 14/12/2026 | Soutenance de projet partielle n°3 |
 | 14-18/12/2026 | PHP : ORAL individuel et groupe sur code PHP déjà fourni |
 | 14-18/12/2026 | Java : QCM commun |
 | 16/12/2026 9h30 | Python : Contrôle sur table (QCM et questions ouvertes) |
 | 20/12/26 23h | PHP : cahier recette + code et trace exécution pour appel Proc. Stock BD depuis PHP, gestion en PHP des exceptions SQL, code PHP restant |
 | 04-08/01/2027 : créneau EdT | PHP : évaluation du site web |
 | 08/01/2027 | Gestion de projet : Suivi de projet, évaluation des dépôts Github/backlog/documentation/tests/release |
-| 08/01/2027 | CR de réunion avec analyse du sprint passé chaque sprint et post-mortem : une note commune /20 |
+| 08/01/2027 | CR de réunion avec analyse du Sprint passé chaque Sprint et post-mortem : une note commune /20 |
 | 11-15/01/2027 : créneau EdT | PHP : QCM commun |
 | 11-15/01/2027 : créneau EdT | BD : QCM commun |
 | 11-15/01/2027 | Gestion de projet : AUDIT |
