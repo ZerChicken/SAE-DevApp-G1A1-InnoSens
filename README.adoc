@@ -93,10 +93,6 @@ Le chiffrage est calculé à partir du coût employeur de chaque membre de l’�
 
 Chacun des Sprints, excepté le Sprint 0, dureront environ deux semaines.
 
-=== Backlog produit
-
-Ce sera soit un tableau ID / histoire / priorité / complexité / Sprint, soit un lien vers le PDF du backlog à mettre dans livrables (Demander à EP)
-
 === Livrables
 
 [%header]
